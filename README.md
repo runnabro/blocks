@@ -1,4 +1,4 @@
-# GitHub Blocks
+# GitHub Nlocks
 
 > 🎉 You made it! Welcome to the GitHub Blocks Technical Preview. For questions and help, join us at [discord.gg/githubnext](https://discord.gg/githubnext) in the `#blocks` channel.
 ## What are blocks?
